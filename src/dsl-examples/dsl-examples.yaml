@@ -1,0 +1,8 @@
+meta:
+  title: "정산 관리"
+table:
+  columns:
+    - name: id
+      label: ID
+    - name: name
+      label: 이름
